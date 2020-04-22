@@ -8,7 +8,7 @@ expo init 'NAME OF APP'
 ```
 1) Go to Project folder and Replace the files present there with files in this directory.
 2) And copy any new file which are not present.
-###### Open termial again in projects directory:
+###### 3) Open termial again in projects directory:
 ```
 npm start
 ```
